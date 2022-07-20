@@ -1,0 +1,34 @@
+body{
+    color:rgb(243, 227, 227);
+}
+*{
+    box-sizing: border-box;
+}
+.nav-item{padding: 15px;}
+nav { background-color: #1E202B;}
+
+.serch{
+    
+    background-image: url(../imgs/cover.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-color: #1E202B;
+    height: 100vh;
+
+
+}
+.input a { text-decoration: none;   
+    right: 54px;
+    top: 50px;
+    color: #fff;
+}
+input { 
+    background-color: #1E202B!important;
+    color: #fff;}
+.cell { 
+    background-color: #1E202B;
+    height: 300px;
+    color: #fff;
+    padding: 10;
+    border-right:5px solid gray ;
+}
